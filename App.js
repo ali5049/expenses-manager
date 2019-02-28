@@ -21,12 +21,12 @@ export default class App extends Component<{}> {
   componentDidMount(){
    
 const config = {
-    apiKey: "AIzaSyCyQr4InbCCTCy3vFZDQt_SEq89j6z0uPQ",
-    authDomain: "expenses-68abc.firebaseapp.com",
-    databaseURL: "https://expenses-68abc.firebaseio.com",
-    projectId: "expenses-68abc",
-    storageBucket: "expenses-68abc.appspot.com",
-    messagingSenderId: "574128980725"
+    apiKey: "#",
+    authDomain: "#",
+    databaseURL: "#",
+    projectId: "#",
+    storageBucket: "e#",
+    messagingSenderId: "#"
   };
 
  firebase.initializeApp(config);
